@@ -1,6 +1,6 @@
 //Count vowels in a sentence
 import java.util.*;
-public class que4{
+public class countvowels{
 	public static void main(String args[])
 	{
 		Scanner s=new Scanner(System.in);
