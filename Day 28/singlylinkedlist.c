@@ -1,4 +1,4 @@
-/* Singly Linked List */
+/* Singly Linked List insertion (beginning, mid and end) */
 
 #include<stdio.h>
 #include<conio.h>
