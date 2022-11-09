@@ -26,7 +26,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class Main{
+class SubarraySum{
 	static BufferedReader br;
     static PrintWriter ot;
     public static void main(String[] args) throws IOException{
