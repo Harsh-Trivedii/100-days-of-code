@@ -13,8 +13,5 @@ Expected Auxiliary Space: O(1)
 Constraints:
 1 <= N <= 105
 
-Explanation:You dont need to read input or print anything. 
-Complete the function isSumOfTwo() which takes N as input parameter and returns "Yes" if can be expressed as sum of two prime numbers. else return "No".
-
 Test Cases: 304 /304
 
