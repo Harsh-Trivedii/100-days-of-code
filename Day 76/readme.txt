@@ -20,3 +20,6 @@ Expected Auxiliary Space: O(max(|arri|)) for result.
 Constraints:
 1 ≤ N ≤ 103
 1 ≤ |arri| ≤ 103
+
+Test Cases Passed: 
+505 /505
